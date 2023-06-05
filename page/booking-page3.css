@@ -1,0 +1,341 @@
+.booking-page3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.booking-page3-booking-page3 {
+  width: 100%;
+  height: 1194px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.booking-page3-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 92px;
+  position: absolute;
+}
+.booking-page3-text {
+  top: 19px;
+  left: 550px;
+  color: rgba(52, 11, 11, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Bree Serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.booking-page3-img70862 {
+  top: 100px;
+  left: 25px;
+  width: 100%;
+  height: 300px;
+  position: absolute;
+}
+.booking-page3-text02 {
+  top: 453px;
+  left: 442px;
+  color: rgba(18, 54, 108, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Bowlby One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.booking-page3-rectangle221 {
+  top: 1108px;
+  left: 438px;
+  width: 262px;
+  height: 28px;
+  position: absolute;
+  border-radius: 5px;
+}
+.booking-page3-rectangle32 {
+  top: 1165px;
+  left: 438px;
+  width: 262px;
+  height: 28px;
+  position: absolute;
+  border-radius: 5px;
+}
+.booking-page3-text04 {
+  top: 1062px;
+  left: 409px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.booking-page3-text06 {
+  top: 1119px;
+  left: 413px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.booking-page3-text08 {
+  top: 695px;
+  left: 622px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.booking-page3-rectangle222 {
+  top: 1238px;
+  left: -16px;
+  width: 100%;
+  height: 286px;
+  position: absolute;
+}
+.booking-page3-text10 {
+  top: 1294px;
+  left: 37px;
+  color: rgba(18, 54, 108, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Imbue;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.booking-page3-ellipse4 {
+  top: 1356px;
+  left: 37px;
+  width: 48px;
+  height: 50px;
+  position: absolute;
+}
+.booking-page3-ellipse41 {
+  top: 1356px;
+  left: 98px;
+  width: 48px;
+  height: 50px;
+  position: absolute;
+}
+.booking-page3-ellipse42 {
+  top: 1356px;
+  left: 159px;
+  width: 48px;
+  height: 50px;
+  position: absolute;
+}
+.booking-page3-text12 {
+  top: 1294px;
+  left: 740px;
+  color: rgba(18, 54, 108, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Hanuman;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.booking-page3-text14 {
+  top: 1342px;
+  left: 500px;
+  color: rgba(122, 38, 143, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: right;
+  font-family: Gupter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.booking-page3-rectangle29 {
+  top: 584px;
+  left: 404px;
+  width: 318px;
+  height: 437px;
+  position: absolute;
+}
+.booking-page3-text21 {
+  top: 760px;
+  left: 739px;
+  color: rgba(18, 54, 108, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Bona Nova;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.booking-page3-rectangle34 {
+  top: 1494px;
+  left: -16px;
+  width: 100%;
+  height: 30px;
+  position: absolute;
+}
+.booking-page3-text28 {
+  top: 1494px;
+  left: 173px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: right;
+  font-family: Fira Mono;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.booking-page3-text29 {
+  color: rgba(255, 255, 255, 1);
+}
+.booking-page3-text30 {
+  color: rgba(131, 181, 255, 1);
+}
+.footer {
+  background: rgba(245, 178, 178, 0.35);
+  margin-top: 100px;
+  padding-top: 50px;
+  position: relative;
+  padding-bottom: 50px;
+}
+
+.footer h2 {
+  font-family: 'Poppins';
+  font-size: 36px;
+  font-weight: 500;
+  color: #13376C;
+  text-transform: uppercase;
+}
+
+.footer h5 {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  color: #13376C;
+}
+
+.footer p {
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 16px;
+  color: #b0b0b0;
+}
+
+.footer-small {
+  background-color: #B84668;
+  text-align: center;
+}
+
+.footer-small p {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #ffffff;
+  margin-top: 30px;
+}
+
+.footer-small a {
+  font-weight: 500;
+  font-size: 16px;
+  color: #84B5FF;
+  text-decoration: none;
+}
+.btn-testimonial {
+  background: #7B278F;
+  transition: all 0,3s ease;
+  top: 1108px;
+  left: 438px;
+  width: 262px;
+  height: 28px;
+  position: absolute;
+  border-radius: 5px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 170%;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.btn-testimonial:hover {
+  box-shadow: 0px 8px 15px rgb(0, 0, 0,0.25);
+  border-radius: 4px;
+  transform: scale(1.1);
+}
+.btn-testimonial1 {
+  background: #7B278F;
+  transition: all 0,3s ease;
+  top: 1165px;
+  left: 438px;
+  width: 262px;
+  height: 28px;
+  position: absolute;
+  border-radius: 5px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 170%;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.btn-testimonial1:hover {
+  box-shadow: 0px 8px 15px rgb(0, 0, 0,0.25);
+  border-radius: 4px;
+  transform: scale(1.1);
+}
